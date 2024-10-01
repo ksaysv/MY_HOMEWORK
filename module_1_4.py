@@ -4,4 +4,6 @@ print(my_string.upper())
 print(my_string.lower())
 print(my_string[-1:])
 print(my_string[:1])
-      #gg
+uno=('съешь меня, если сможешь')
+uno = uno.replace(" ", "")
+print(uno)
